@@ -16,26 +16,7 @@ My system description
 5. OS type: 64bit, ubuntu 16.04LTS
 
 
-Here is the console log from $ nvideo-smi:
-Sun Dec  2 19:43:54 2018
-+-----------------------------------------------------------------------------+
-| NVIDIA-SMI 396.54                 Driver Version: 396.54                    |
-|-------------------------------+----------------------+----------------------+
-| GPU  Name        Persistence-M| Bus-Id        Disp.A | Volatile Uncorr. ECC |
-| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
-|===============================+======================+======================|
-|   0  GeForce GTX 108...  Off  | 00000000:01:00.0  On |                  N/A |
-| 27%   33C    P8    11W / 250W |    548MiB / 11175MiB |      0%      Default |
-+-------------------------------+----------------------+----------------------+
-                                                                               
-+-----------------------------------------------------------------------------+
-| Processes:                                                       GPU Memory |
-|  GPU       PID   Type   Process name                             Usage      |
-|=============================================================================|
-|    0      1105      G   /usr/lib/xorg/Xorg                           335MiB |
-|    0      1774      G   compiz                                       204MiB |
-|    0      2486      G   /usr/lib/firefox/firefox                       2MiB |
-|    0      2741      G   /usr/lib/firefox/firefox                       2MiB |
+Here is the console log from $ nvideo-smi:https://drive.google.com/open?id=1V8cGUMzR57y5Gh7u139jr42_pxJzN5XL
  
 
 
